@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Mohamed-Monir/Mohamed-Monir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...embedded systems
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...0123456789
 - 😄 Pronouns: ...Mr.
 - ⚡ Fun fact: ...I illustrate the code to rubber duck 
--->
+
