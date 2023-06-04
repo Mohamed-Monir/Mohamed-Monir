@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...embedded systems
 - 🌱 I’m currently learning ...advnaced topincs in embedded systems
 - 👯 I’m looking to collaborate on ...embedded systems projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...career change
 - 💬 Ask me about ...
 - 📫 How to reach me: ...mohamed.mounir93@outlook.com
 - 😄 Pronouns: ...Mr.
 - ⚡ Fun fact: ...I illustrate the code to rubber duck 
 
+### 🛠 &nbsp;Tech Stack
+![C](https://img.shields.io/badge/-C%20Language%20-05122A?style=flat&logo=C)&nbsp;
